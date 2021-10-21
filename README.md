@@ -9,7 +9,7 @@
 
   * Environmental covariates of dominant land cover type, Enhanced Vegetation Index (EVI), and habitat edge length are also included in the data frame
 
-* raw_data.Rda: list containing for both regions (Research Triangle and Arlington) lists of posterior samples of the following parameters. These data were used to generate the tables and figures in the main text:
+* raw_data.Rda: list containing for both regions (Research Triangle and Arlington) lists of posterior samples of the following parameters. These data were used to generate the tables and figures:
   *  $\alpha$
   *  $\rho$
   *  $\delta$
